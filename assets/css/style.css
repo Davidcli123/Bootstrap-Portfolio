@@ -4,7 +4,7 @@ body {
   font-size: 18px;
   color: #777;
   line-height: 34px;
-  background: url("../images/concrete_seamless.png");
+  background: url("http://www.planwallpaper.com/static/images/518079-background-hd.jpg");
 }
 
 * {
@@ -14,11 +14,15 @@ body {
 
 /*general*/
 
+
+
 .container {
   clear: both;
   margin: 0 auto;
   width: 100%;
   max-width: 960px;
+  color: #fff;
+
 }
 
 h1,
@@ -66,19 +70,7 @@ h3 {
   border-bottom: 2px solid #ccc;
 }
 
-#logo {
-  width: 250px;
-  height: 90px;
-  float: left;
-  font-family: 'Georgia', Times, Times New Roman, serif;
-  text-align: center;
-  line-height: 90px;
-  color: #fff;
-  font-weight: 700;
-  font-size: 30px;
-  text-decoration: none;
-  background: #4aaaa5;
-}
+
 
 nav {
   float: right;
@@ -114,7 +106,7 @@ footer {
 }
 
 
-/*sidebar*/
+
 
 .sidebar {
   padding: 30px;
@@ -150,6 +142,7 @@ h3,
 
 #main-container {
   padding-top: 130px;
+  color:#020202;
 }
 
 .main-section {
@@ -194,7 +187,7 @@ h3,
   text-align: center;
   line-height: 30px;
   font-weight: 300;
-  background: #4aaaa5;
+  background: #74717F;
   border-bottom: 0;
 }
 
